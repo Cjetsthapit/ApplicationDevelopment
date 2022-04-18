@@ -8,7 +8,7 @@
 | Rachit Bhusal | Frontend Developer |
 | Ranjan Pandey | Backend Developer |
 | Shangyu Karmacharya | Backend Developer |
-| Srijeet Stapit | Project Manager / Database Administartor |
+| Srijeet Stapit | Project Manager / Database Administrator |
    
 </div>
 
